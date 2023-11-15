@@ -17,8 +17,6 @@
 <!--Card styles-->
 <style>
   article {
-  display: flex;
-  justify-content: center;
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
 }
@@ -40,7 +38,6 @@ h1 {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  text-align: center;
 
   box-shadow: 0 4px 20px 0 rgba(60, 44, 79, 0.378);
   background-color: #516947;
