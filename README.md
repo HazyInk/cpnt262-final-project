@@ -4,6 +4,8 @@
 
 ### Bugs and Fixes
 
+Routing help from svelteDocs https://learn.svelte.dev/tutorial/page-data
+
 ### Attributions
 - Images (from unsplash)
     - (by: Gabriel Gurrola)[https://unsplash.com/photos/person-playing-guitar-2UuhMZEChdc]
