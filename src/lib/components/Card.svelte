@@ -41,6 +41,7 @@ h1 {
 
   box-shadow: 0 4px 20px 0 rgba(60, 44, 79, 0.378);
   background-color: #516947;
+  margin-top: 1rem;
 }
 a {
   text-decoration: none;

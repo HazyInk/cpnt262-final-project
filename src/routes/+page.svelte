@@ -1,5 +1,6 @@
 <script>
 	import Card from "../lib/components/Card.svelte";
+  import Footer from "../lib/components/Footer.svelte";
 // const arr = ["one", "two", "three"]
 // const obj = {src:'background.png', header:"TEST", paragraph:"TESTESTTESTTESTTEST"};
 const obj = [
@@ -15,13 +16,17 @@ const obj = [
   ];
 </script>
 
-
+<svelte:head>
+  <title>Gallery Page</title>
+</svelte:head>
+<main>
 <div class="card-container">
   {#each obj as { title, content, src } (title)}
     <Card title={title} content={content} src={src} />
   {/each}
 </div>
-
+</main>
+<Footer></Footer>
 <style>
   .card-container {
     padding: 5rem;
@@ -31,4 +36,5 @@ const obj = [
     max-width: 1000px; /* Adjust as needed */
     margin: 0 auto; /* Center the cards */
   }
+
 </style>
