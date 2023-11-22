@@ -22,12 +22,12 @@
 }
 h1 {
 		color: #fff9f4;
-		font-family: 'Croissant One', cursive;
+		font-family: 'Glass Antiqua', cursive;
 		font-size: 35px;
 	}
   p {
 		color: #fff9f4;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Advent Pro', sans-serif;
 		font-size: 16px;
 	}
   .card {
