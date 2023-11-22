@@ -2,11 +2,15 @@
 	// export let data;
 </script>
 
-<div class="main">
-	<main>
-		<slot />
-	</main>
-</div>
+
+<main>
+	<div class="m-4 text-center">
+
+	<slot />
+
+	</div>
+</main>
+
 
 <style>
 

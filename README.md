@@ -5,7 +5,7 @@
 ### Bugs and Fixes
 
 Routing help from svelteDocs https://learn.svelte.dev/tutorial/page-data
-
+more routing help from this youtube video https://www.youtube.com/watch?v=2ZvSj5kktjA&t=1s
 ### Attributions
 - Images (from unsplash)
     - (by: Gabriel Gurrola)[https://unsplash.com/photos/person-playing-guitar-2UuhMZEChdc]
