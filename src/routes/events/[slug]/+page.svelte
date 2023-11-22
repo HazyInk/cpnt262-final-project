@@ -3,9 +3,10 @@
 </script>
 <!-- 
 there must be something wrong with the way i am calling / loading the data -->
-<!-- <svelte:head>
+<svelte:head>
 	<title>{data.post.title}</title>
-</svelte:head> -->
+</svelte:head>
 
-
+<h2>{data.post.title}</h2>
+<p>{data.post.content}</p>
 <p>Hi</p>

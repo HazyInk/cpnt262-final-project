@@ -1,6 +1,5 @@
 <script>
   export let data;
-  console.log(data.summaries);
 </script>
 
 {#each data.summaries as { slug, title }}
