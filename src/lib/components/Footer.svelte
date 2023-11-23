@@ -20,7 +20,7 @@
 
 <style>
 footer {
-    background-color: #28463E;
+    background-color: #516947;
     width: 100%;
     color: #F3F8F1;
     display: flex;
