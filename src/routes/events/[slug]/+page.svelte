@@ -1,11 +1,11 @@
 <script>
 	export let data;
 </script>
-<!-- 
-there must be something wrong with the way i am calling / loading the data -->
+
 <svelte:head>
 	<title>{data.post.title}</title>
 </svelte:head>
+
 <div id="main">
 	<div>
 		<img src="{data.post.src}" alt="poster of event">
@@ -42,7 +42,7 @@ there must be something wrong with the way i am calling / loading the data -->
 		display: block;
 		margin-bottom: 0;
 	}
-	
+
 	#text-box {
 		display: flex;
 		flex-direction: column;
