@@ -10,7 +10,7 @@ there must be something wrong with the way i am calling / loading the data -->
 	<div>
 		<img src="{data.post.src}" alt="poster of event">
 	</div>
-	<div>
+	<div id="text-box">
 		<h2>{data.post.title}</h2>
 		<p>{data.post.content}</p>
 	</div>
@@ -24,7 +24,8 @@ there must be something wrong with the way i am calling / loading the data -->
 
 	p {
 		font-family: 'Ubuntu', sans-serif;
-		font-size: 22px;
+		font-size: 18px;
+		max-width: 65ch;
 	}
 
 	#main{
@@ -38,5 +39,14 @@ there must be something wrong with the way i am calling / loading the data -->
 		font-size: 30px;
 		font-weight: bold;
 		color: #28463E;
+		display: block;
+		margin-bottom: 0;
+	}
+	
+	#text-box {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		width: 90vw;
 	}
 </style>
