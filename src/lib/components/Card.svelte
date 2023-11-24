@@ -41,11 +41,7 @@ h1 {
   background-color: #516947;
   margin-top: 1rem;
 }
-a {
-  text-decoration: none;
 
-  color: #ccf4bb;
-}
 
 /* Image & hover state */
 
