@@ -12,6 +12,7 @@
 	</div>
 	<div id="text-box">
 		<h2>{data.post.title}</h2>
+		<p>{data.post.date}</p>
 		<p>{data.post.content}</p>
 	</div>
 </div>
