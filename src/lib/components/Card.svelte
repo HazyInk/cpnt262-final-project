@@ -6,11 +6,9 @@
 
 <article>
 <div class="card">
-<a href="https://hazyink.github.io/inkmedia/">
 <img src={src} alt=""/>
 <h1>{title}</h1>
 <p>{content}</p>
-</a>
 </div>
 </article>
 
