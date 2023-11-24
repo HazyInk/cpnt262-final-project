@@ -1,6 +1,5 @@
 <script>
 	import Card from "../lib/components/Card.svelte";
-
 // const arr = ["one", "two", "three"]
 // const obj = {src:'background.png', header:"TEST", paragraph:"TESTESTTESTTESTTEST"};
 // const obj = [
