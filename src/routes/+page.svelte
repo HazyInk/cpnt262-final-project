@@ -71,14 +71,17 @@
   }
   #menu-and-events {
     display:flex;
+    justify-content: space-around;
     gap: 0.5rem;
+    min-width: 99vw;
+    overflow: hidden;
   }
   #menu {
     display: flex;
     flex-direction: column;
-    padding: 4rem;
+    padding: 3rem;
     background-color:#203731;
-    max-width: 40vw;
+    min-width: 48vw;
     justify-content: center;
     align-items: center;
     color:#F3F8F1;
@@ -101,7 +104,7 @@
     flex-direction: column;
     padding: 4rem;
     background-color:#203731;
-    max-width: 40vw;
+    min-width: 48vw;
     justify-content: center;
     align-items: center;
     color:#F3F8F1;

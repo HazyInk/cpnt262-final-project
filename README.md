@@ -1,11 +1,13 @@
-# cont262-final-project
+# cpnt262-final-project
 ## Reilly and Sydney
-## [live](https://6560ee5aea7b151260f3cb23--incomparable-monstera-7247c0.netlify.app/)
+## [live]( https://6560ee5aea7b151260f3cb23--incomparable-monstera-7247c0.netlify.app/)
 
 ### Bugs and Fixes
 
 Routing help from svelteDocs https://learn.svelte.dev/tutorial/page-data
 more routing help from this youtube video https://www.youtube.com/watch?v=2ZvSj5kktjA&t=1s
+
+
 ### Attributions
 - Images (from unsplash)
     - (by: Gabriel Gurrola)[https://unsplash.com/photos/person-playing-guitar-2UuhMZEChdc]
