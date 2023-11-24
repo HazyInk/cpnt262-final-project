@@ -10,8 +10,6 @@ const date8 = dayjs('2023-12-08').format('DD MMMM, YYYY');
 const date9 = dayjs('2024-12-16').format('DD MMMM, YYYY');
 
 
-
-
 export const eventArr = [
     { slug:"Live Music Night", title: "Live Music Night", content: "On a lively Friday evening, the Irish pub comes alive with the soulful tunes of a local folk band. The atmosphere is electric as patrons tap their feet to the rhythm of fiddles and guitar. The cozy ambience is filled with laughter and camaraderie, creating the perfect backdrop for enjoying a pint of Guinness or a glass of smooth Irish whiskey.", src:'/band.jpg', date: `Taking place on ${date1}`},
     { slug: "Pub Quiz", title: "Pub Quiz Extravaganza", content: "Wednesday nights are reserved for the ultimate pub quiz showdown. Teams gather around wooden tables, armed with pens and answer sheets, ready to tackle questions that range from Irish history to pop culture. The competitive spirit is palpable, but it's all in good fun as participants engage in friendly banter between rounds, with the promise of bragging rights for the winning team.", src:'/trivia.jpg', date: `Taking place on ${date2}`},
