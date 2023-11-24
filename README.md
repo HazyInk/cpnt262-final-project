@@ -1,6 +1,6 @@
 # cont262-final-project
 ## Reilly and Sydney
-## [live]()
+## [live](https://6560ee5aea7b151260f3cb23--incomparable-monstera-7247c0.netlify.app/)
 
 ### Bugs and Fixes
 
@@ -15,3 +15,5 @@ more routing help from this youtube video https://www.youtube.com/watch?v=2ZvSj5
     - (Ardian Lumi)[https://unsplash.com/photos/group-of-people-dancing-6Woj_wozqmA]
     - (Brock Dupoint)[https://unsplash.com/photos/man-in-green-and-brown-camouflage-uniform-mJmXk08p9q8]
     - (Nikola Jovanovic)[https://unsplash.com/photos/round-wooden-cafeteria-tables-and-chairs-inside-room-QGPmWrclELg]
+- Menu image
+  - (by: Reilly Wooldridge)[https://github.com/HazyInk]
